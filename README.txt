@@ -1,1 +1,0 @@
-Developed a personal website using HTML and CSS for the frontend and Flask for the backend. The website essentially shows my projects and skills. I am a freshman at the University of Minnesota, Twin Cities, majoring in computer science. The template folder shows my html files and the static folder shows my css files.
